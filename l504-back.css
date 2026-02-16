@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "leonardo";
+  src: url("file:///run/user/1000/doc/e817dd29/font/leonardo.bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Alegreya Sans SC";
+  src: url("file:///run/user/1000/doc/e817dd29/font/AlegreyaSansSC-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  margin:0;
+  background-color:#EDE9DF;
+}
+h1{
+  color:#ffffff;
+  font-family:"leonardo";
+  text-align: center;
+}
+h6{
+  color:#ffffff;
+  font-family:"Alegreya Sans SC";
+  text-align: center;
+}
+
+.head-banner {
+  height: 170px;
+  background-image: url("file:///run/user/1000/doc/e817dd29/assets/wall-pattern2.png");
+  background-repeat: repeat-x;
+  background-position: top left;
+  background-size: auto 170px;
+}
+
+.logo{
+  height:150px;
+  background-image: url("file:///run/user/1000/doc/e817dd29/assets/meg-logo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 150px;
+}
