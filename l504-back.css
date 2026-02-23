@@ -19,13 +19,11 @@ h1{
   color:#ffffff;
   font-family:"leonardo";
   text-align: center;
-  margin:0;
 }
 h6{
   color:#ffffff;
   font-family:"Alegreya Sans SC";
   text-align: center;
-  margin:0;
 }
 
 .head-banner {
@@ -43,7 +41,9 @@ h6{
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 150px;
+  margin:0;
 }
+
 
 
 
